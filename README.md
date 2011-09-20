@@ -1,10 +1,6 @@
 Title
 =====
 
-[dir][1]
-
-[1]: dir/
-
 ## Phrase Emphasis ##
 
 *italic*   **bold**
