@@ -1,2 +1,2 @@
-[file.txt]
-[dir/]
+[file](file.txt)
+[dir](dir/)
