@@ -24,6 +24,8 @@ This is a preformatted
 code block.
 </pre>
 
+Code phrases can be surrounded by @at-symbols@.
+
 h2. Blockquotes
 
 bq. A block quotation.
