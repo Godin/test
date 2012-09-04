@@ -98,6 +98,14 @@ ___
 
 ```
 
+Three or more hyphens, asterisks or underscores:
+
+---
+
+***
+
+___
+
 
 ## Links
 
