@@ -83,7 +83,46 @@ Quote break.
 + Or pluses
 
 
-## Code Blocks
+## Code and Syntax Highlighting
+
+```no-highlight
+Inline `code` has `back-ticks around` it.
+```
+
+Inline `code` has `back-ticks around` it.
+
+```no-highlight
+ ```javascript
+ var s = "JavaScript syntax highlighting";
+ alert(s);
+ ```
+
+ ```python
+ s = "Python syntax highlighting"
+ print s
+ ```
+
+ ```
+ No language indicated, so no syntax highlighting. 
+ But let's throw in a <b>tag</b>.
+ ```
+```
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+```
+No language indicated, so no syntax highlighting.
+But let's throw in a <b>tag</b>.
+```
+
 
 ## Horizontal Rules
 
@@ -154,8 +193,6 @@ Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-
-## Code
 
 ## Images
 
