@@ -159,3 +159,20 @@ Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
 ## Images
 
+```no-highlight
+Inline-style:
+![alt text](http://git-scm.com/images/logo.png "Logo Title Text 1")
+
+Reference-style:
+![alt text][logo]
+
+[logo]: http://git-scm.com/images/logo.png "Logo Title Text 2"
+```
+
+Inline-style:
+![alt text](http://git-scm.com/images/logo.png "Logo Title Text 1")
+
+Reference-style:
+![alt text][logo]
+
+[logo]: http://git-scm.com/images/logo.png "Logo Title Text 2"
