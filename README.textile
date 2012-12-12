@@ -44,3 +44,6 @@ h2. Links
 
 "dir/file":dir/file.txt
 
+h2. Raw HTML
+
+<b>bold</b>
