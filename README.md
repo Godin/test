@@ -5,6 +5,7 @@ Title
 
 *italic*   **bold**
 _italic_   __bold__
+~~strikethrough~~
 
 ## Lists ##
 
