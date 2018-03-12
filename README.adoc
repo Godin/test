@@ -1,0 +1,8 @@
+== Example
+
+include::File.java[tags=t]
+
+[source,java]
+----
+include::File.java[tags=t]
+----
