@@ -1,2 +1,2 @@
 
-link:../README.adoc[relative link]
+link:../README.asciidoc[relative link]
