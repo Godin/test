@@ -1,0 +1,15 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Test
+      env:
+        YOUR_SECRET_NAME: ${{ secrets.YOUR_SECRET_NAME }}
+      run: echo "Hello, $YOUR_SECRET_NAME"
