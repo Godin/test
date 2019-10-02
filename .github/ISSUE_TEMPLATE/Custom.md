@@ -1,7 +1,6 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
-http://www.jacoco.org/jacoco/trunk/doc/faq.htm
+about: Describe this issue template's purpose here. http://www.jacoco.org/jacoco/trunk/doc/faq.htm
 
 ---
 
