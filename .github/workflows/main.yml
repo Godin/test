@@ -1,6 +1,12 @@
 name: CI
 
-on: [push, delete]
+on:
+  delete:
+    branches:
+      - master
+  push:
+    branches:
+      - master
 
 jobs:
   build:
