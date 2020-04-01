@@ -18,4 +18,4 @@ jobs:
     - name: Test
       env:
         YOUR_SECRET_NAME: ${{ secrets.YOUR_SECRET_NAME }}
-      run: echo "Hello, $YOUR_SECRET_NAME"
+      run: env
