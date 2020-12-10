@@ -1,0 +1,7 @@
+jobs:
+- job:
+  steps:
+  - bash: |
+      set -e
+      echo "$BUILD_SOURCEBRANCH"
+ 
