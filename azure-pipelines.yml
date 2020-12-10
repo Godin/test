@@ -4,4 +4,4 @@ jobs:
   - bash: |
       set -e
       echo "$BUILD_SOURCEBRANCH"
- 
+      echo TEST
